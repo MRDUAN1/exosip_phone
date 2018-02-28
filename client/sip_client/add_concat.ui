@@ -1,0 +1,23 @@
+<UI version="4.0" >
+ <class>add_concat</class>
+ <widget class="QWidget" name="add_concat" >
+  <property name="objectName" >
+   <string notr="true">add_concat</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>400</width>
+	<height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>add_concat</string>
+  </property>  
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources/>
+ <connections/>
+</UI>

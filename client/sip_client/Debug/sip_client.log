@@ -1,0 +1,56 @@
+﻿生成启动时间为 2018/2/26 23:49:34。
+     1>项目“F:\project_vs\sip_client\sip_client\sip_client.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_add_concat.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_add_concat.cpp, GeneratedFiles\Release\moc_add_concat.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_callback.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_callback.cpp, GeneratedFiles\Release\moc_callback.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_chat_intetface.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_chat_intetface.cpp, GeneratedFiles\Release\moc_chat_intetface.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_global_header.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_global_header.cpp, GeneratedFiles\Release\moc_global_header.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_jrtp_recv.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_jrtp_recv.cpp, GeneratedFiles\Release\moc_jrtp_recv.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_jrtp_send.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_jrtp_send.cpp, GeneratedFiles\Release\moc_jrtp_send.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_listen_call_ui.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_listen_call_ui.cpp, GeneratedFiles\Release\moc_listen_call_ui.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_register_dialog.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_register_dialog.cpp, GeneratedFiles\Release\moc_register_dialog.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_sip_client.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_sip_client.cpp, GeneratedFiles\Release\moc_sip_client.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_sip_network.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_sip_network.cpp, GeneratedFiles\Release\moc_sip_network.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_tool_widget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_tool_widget.cpp, GeneratedFiles\Release\moc_tool_widget.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_widgetitem.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_widgetitem.cpp, GeneratedFiles\Release\moc_widgetitem.cpp.
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\qt\5.4\msvc2013\include /I.\GeneratedFiles\Debug /ID:\qt\5.4\msvc2013\include\QtCore /ID:\qt\5.4\msvc2013\include\QtGui /ID:\qt\5.4\msvc2013\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt sip_network.cpp
+         sip_network.cpp
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\project_vs\sip_client\Win32\Debug\\sip_client.exe" /NOLOGO /LIBPATH:D:\qt\5.4\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcmt /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\project_vs\sip_client\Win32\Debug\sip_client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\project_vs\sip_client\Win32\Debug\sip_client.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO Debug\add_concat.obj
+         Debug\AudioMgr_recv.obj
+         Debug\AudioMgr_send.obj
+         Debug\AudioPlay.obj
+         Debug\AudioRec.obj
+         Debug\callback.obj
+         Debug\chat_intetface.obj
+         Debug\moc_add_concat.obj
+         Debug\moc_callback.obj
+         Debug\moc_chat_intetface.obj
+         Debug\moc_global_header.obj
+         Debug\moc_jrtp_recv.obj
+         Debug\moc_jrtp_send.obj
+         Debug\moc_listen_call_ui.obj
+         Debug\moc_register_dialog.obj
+         Debug\moc_sip_client.obj
+         Debug\moc_sip_network.obj
+         Debug\moc_tool_widget.obj
+         Debug\moc_widgetitem.obj
+         Debug\qrc_sip_client.obj
+         Debug\global_header.obj
+         Debug\jrtp_recv.obj
+         Debug\jrtp_send.obj
+         Debug\listen_call_ui.obj
+         Debug\main.obj
+         Debug\register_dialog.obj
+         Debug\sip_client.obj
+         Debug\sip_network.obj
+         Debug\tool_widget.obj
+         Debug\WaveIn.obj
+         Debug\WaveOut.obj
+         Debug\widgetitem.obj
+         sip_client.vcxproj -> F:\project_vs\sip_client\Win32\Debug\sip_client.exe
+     1>已完成生成项目“F:\project_vs\sip_client\sip_client\sip_client.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.22

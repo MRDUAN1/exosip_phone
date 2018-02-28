@@ -1,0 +1,23 @@
+#pragma once
+#include <vector>
+#include <string>
+#include <WinSock2.h>
+#include <windows.h>
+#include <mmsystem.h>
+#include <dsound.h>
+#include <mmreg.h>
+#include <stdint.h>
+#include <QObject>
+#include <rtpsession.h>  
+#include <rtpudpv4transmitter.h>  
+#include <rtpipv4address.h>  
+#include <rtpsessionparams.h>  
+#include <rtperrors.h>  
+#include <rtplibraryversion.h>  
+#include <rtppacket.h>  
+#include <stdlib.h>  
+#include <stdio.h>  
+#include <iostream>  
+#include <string>  
+#pragma comment(lib, "WS2_32")
+#include "va_g729a.h"

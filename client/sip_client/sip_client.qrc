@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="sip_client"/>
+  <qresource prefix="ic">
+    <file>image/9.png</file>
+    <file>image/btn_set_hover.png</file>
+    <file>image/btn_set_normal.png</file>
+    <file>image/btn_set_press.png</file>
+    <file>image/call_image.png</file>
+    <file>image/close.png</file>
+    <file>image/close_hover.png</file>
+    <file>image/close_press.png</file>
+    <file>image/delete_image.png</file>
+    <file>image/down_image.png</file>
+    <file>image/download_down.png</file>
+    <file>image/download_hover.png</file>
+    <file>image/download_normal.png</file>
+    <file>image/group.png</file>
+    <file>image/group_hover.png</file>
+    <file>image/group_press.png</file>
+    <file>image/icon_search_hover.png</file>
+    <file>image/icon_search_normal.png</file>
+    <file>image/icon_search_press.png</file>
+    <file>image/minimize.png</file>
+    <file>image/minimize_hover.png</file>
+    <file>image/minimize_press.png</file>
+    <file>image/qmainstackwidget.cpp</file>
+    <file>image/qq.png</file>
+    <file>image/search.png</file>
+    <file>image/search_hover.png</file>
+    <file>image/search_press.png</file>
+    <file>image/send.png</file>
+  </qresource>
+</RCC>

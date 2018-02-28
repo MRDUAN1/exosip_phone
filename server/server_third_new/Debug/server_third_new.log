@@ -1,0 +1,37 @@
+﻿生成启动时间为 2018/2/26 23:41:00。
+     1>项目“F:\project_vs\server_third_new\server_third_new\server_third_new.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_callback.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_callback.cpp, GeneratedFiles\Release\moc_callback.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_global_.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_global_.cpp, GeneratedFiles\Release\moc_global_.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_handle_information.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_handle_information.cpp, GeneratedFiles\Release\moc_handle_information.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_network.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_network.cpp, GeneratedFiles\Release\moc_network.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_server_third_new.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_server_third_new.cpp, GeneratedFiles\Release\moc_server_third_new.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_sip_message.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_sip_message.cpp, GeneratedFiles\Release\moc_sip_message.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_sql_.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_sql_.cpp, GeneratedFiles\Release\moc_sql_.cpp.
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\qt\5.4\msvc2013\include /I.\GeneratedFiles\Debug /ID:\qt\5.4\msvc2013\include\QtCore /ID:\qt\5.4\msvc2013\include\QtGui /ID:\qt\5.4\msvc2013\include\QtWidgets /ID:\qt\5.4\msvc2013\include\QtSql /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_SQL_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt callback.cpp
+         callback.cpp
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\project_vs\server_third_new\Win32\Debug\\server_third_new.exe" /NOLOGO /LIBPATH:D:\qt\5.4\msvc2013\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib odbc32.lib odbccp32.lib eXosip2.lib osip2.lib osipparser2.lib pthreadVC2.lib Qt5Sqld.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\project_vs\server_third_new\Win32\Debug\server_third_new.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\project_vs\server_third_new\Win32\Debug\server_third_new.lib" /MACHINE:X86 /SAFESEH Debug\callback.obj
+         Debug\moc_callback.obj
+         Debug\moc_global_.obj
+         Debug\moc_handle_information.obj
+         Debug\moc_network.obj
+         Debug\moc_server_third_new.obj
+         Debug\moc_sip_message.obj
+         Debug\moc_sql_.obj
+         Debug\qrc_server_third_new.obj
+         Debug\global_.obj
+         Debug\handle_information.obj
+         Debug\main.obj
+         Debug\md5_cacluate.obj
+         Debug\network.obj
+         Debug\osip_md5c.obj
+         Debug\server_third_new.obj
+         Debug\sip_message.obj
+         Debug\sql_.obj
+         server_third_new.vcxproj -> F:\project_vs\server_third_new\Win32\Debug\server_third_new.exe
+     1>已完成生成项目“F:\project_vs\server_third_new\server_third_new\server_third_new.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.16
